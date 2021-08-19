@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Naman-pokhriyal
+- 👀 I’m interested in Web-Development, Software development and languages like C, Python, Java.
+- 🌱 I’m currently pursuing my B.Tech in Computer Science and Engineering (CSE)
+- 💞️ I’m looking to collaborate on any project that challenges me and enables me to learn more
+- 📫 You can mail me at namanpokhriyal03@gmail.com or throung my Blog's Get in touch Section
