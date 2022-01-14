@@ -1,4 +1,4 @@
-<hr>
+<!-- <hr>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Naman-pokhriyal&theme=dark&show_icons=true" alt="NamanPokhriyal" /></p>
 
@@ -9,7 +9,7 @@
 </a>
 
 <h3 align="left"><b>Connect with me here:</b></h3>
-<p align="left">
+<p align="left"> -->
 
 <h1 align="center">Hi 👋, I'm Naman Pokhriyal</h1>
 <h3 align="center">A passionate Programmer from India</h3>
