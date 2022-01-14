@@ -1,9 +1,3 @@
-- 👋 Hi, I’m @Naman-pokhriyal
-- 👀 I’m interested in Web-Development, Software development and languages like C, Python, Java.
-- 🌱 I’m currently pursuing my B.Tech in Computer Science and Engineering (CSE)
-- 💞️ I’m looking to collaborate on any project that challenges me and enables me to learn more
-- 📫 You can mail me at namanpokhriyal03@gmail.com or throung my Blog's Get in touch Section
-
 <hr>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Naman-pokhriyal&theme=dark&show_icons=true" alt="NamanPokhriyal" /></p>
@@ -22,11 +16,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naman-pokhriyal&label=Profile%20views&color=0e75b6&style=flat" alt="naman-pokhriyal" /> </p>
 
-- 🔭 I’m currently studying at **DIT University**
+- 🔭 I’m currently pursuing my B.Tech in Computer Science and Engineering (CSE) from **DIT University**
+
+- 👀 I’m interested in Web-Development, Software development and languages like C, Python, Java.
 
 - 👯 I’m looking to collaborate on **Any interesting projects with Java or Python**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-naman.netlify.app/](https://portfolio-naman.netlify.app/)
+- 👨‍💻 All of my portfolio is available at [https://portfolio-naman.netlify.app/](https://portfolio-naman.netlify.app/)
 
 - 📫 How to reach me **namanpokhriyal03@gmail.com**
 
