@@ -42,3 +42,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naman-pokhriyal&" alt="naman-pokhriyal" /></p>
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Naman-pokhriyal&theme=radical&date_format=M%20j%5B%2C%20Y%5D&currStreakNum=51DEFD)](https://git.io/streak-stats)
