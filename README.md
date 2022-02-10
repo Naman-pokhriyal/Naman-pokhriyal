@@ -44,6 +44,7 @@
 
 
 
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -56,14 +57,14 @@
     <p align="center">
  
 </p align="center">
-<img src="https://github.com/0xCipher-max/0xCipher-max/blob/main/images/Github-bg.png" width = "700px" height = "800px">
+<img src="https://github.com/Naman-pokhriyal/Naman-pokhriyal/blob/main/images/Github-bg.png" width = "700px" height = "800px">
 
 <p align="center">
  
- <img src="https://badges.pufler.dev/visits/0xCipher-max/0xCipher-max"/> 
- <!-- <img src="https://badges.pufler.dev/years/0xCipher-max"/> -->
- <img src="https://badges.pufler.dev/repos/0xCipher-max"/>
- <img src="https://badges.pufler.dev/commits/monthly/0xCipher-max" />
+ <img src="https://badges.pufler.dev/visits/Naman-pokhriyal/Naman-pokhriyal"/> 
+ <!-- <img src="https://badges.pufler.dev/years/Naman-pokhriyal"/> -->
+ <img src="https://badges.pufler.dev/repos/Naman-pokhriyal"/>
+ <img src="https://badges.pufler.dev/commits/monthly/Naman-pokhriyal" />
 
 </p>
 
@@ -98,16 +99,16 @@
 <br>
 
 <p align = "center">
-  <img  src = "https://github-readme-stats.vercel.app/api?username=0xCipher-max&show_icons=true&theme=radical&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=0xCipher-max&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical">
+  <img  src = "https://github-readme-stats.vercel.app/api?username=Naman-pokhriyal&show_icons=true&theme=radical&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Naman-pokhriyal&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical">
 </p>
 
 <p align = "center">
- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=0xCipher-max&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
+ <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Naman-pokhriyal&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
 </p> 
 
 <p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=0xCipher-max&theme=redical">
+ <img src="https://activity-graph.herokuapp.com/graph?username=Naman-pokhriyal&theme=redical">
 </p> 
 
 <h2 align="center">Contact Me</h2>
