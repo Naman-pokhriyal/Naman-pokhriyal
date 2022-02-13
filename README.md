@@ -21,7 +21,7 @@
 
 - 👯 I’m looking to collaborate on **Any interesting projects with Java or Python**
 
-- 👨‍💻 All of my portfolio is available at [https://portfolio-naman.netlify.app/](https://portfolio-naman.netlify.app/)
+- 👨‍💻 All of my portfolio is available at [https://namandev.netlify.app/](https://namandev.netlify.app/)
 
 - 📫 How to reach me **namanpokhriyal03@gmail.com**
 <br/>
