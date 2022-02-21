@@ -41,10 +41,10 @@
       />
     </p>
    <br/>
-   <p align="center">
+<!--    <p align="center">
     <img src="https://badges.pufler.dev/visits/Naman-pokhriyal/Naman-pokhriyal" />
     <img src="https://badges.pufler.dev/repos/Naman-pokhriyal" /> 
-  </p> 
+  </p>  -->
 <br/>
     
     
