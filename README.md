@@ -1,16 +1,4 @@
-<!-- <hr>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Naman-pokhriyal&theme=dark&show_icons=true" alt="NamanPokhriyal" /></p>
-
- <h3 align="center"><b>My Badges: </b></h3>
-
-<a href="https://dev.to/badge/hacktoberfest-2021" target="_blank">
-<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--1l8Lf2vD--/c_limit,f_auto,fl_progressive,q_80,w_180/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/131/hacktoberfest-2021-badge.png" width=100>
-</a>
-
-
-<h3 align="center"><b>Connect with me here:</b></h3>
-<p align="center"> -->
+[![@namanpokhriyal's Holopin board](https://holopin.io/api/user/board?user=namanpokhriyal)](https://holopin.io/@namanpokhriyal)
 
 <h1 align="center">Hi 👋, I'm Naman Pokhriyal</h1>
 <h3 align="center">A passionate Programmer from India</h3>
